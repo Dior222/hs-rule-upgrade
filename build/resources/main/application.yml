@@ -1,0 +1,7 @@
+src:
+  server: 172.16.100.153
+  port: 8765
+  export-location: rules
+dst:
+  server: 172.16.100.241
+  port: 8765
